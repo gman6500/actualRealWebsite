@@ -44,4 +44,11 @@ body{
 #vind{
     size:50px;
     background-color:#2A7CDA;
+    position:absolute;
+    top:50px;
+    left:0px;
+    font-size:35;
+    width:400px;
+    height:60px;
+
 }
