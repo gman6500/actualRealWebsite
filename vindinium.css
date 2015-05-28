@@ -1,0 +1,36 @@
+/*
+    Document   : vindinium.css
+    Created on : 2015-05-28 05:11 PM
+    Author     : gman6500
+    Description:
+    Purpose of the stylesheet follows.
+    To change this template use Tools | Templates.
+*/
+
+
+.toolbar{
+width: 1350px;
+height: 30px;
+background-color: #2A7CDA;
+border-style: solid;
+border-width: 2px;
+border-color: #5C99DE;
+}
+.toolbarBox{
+	width: 337px;
+	height:20px;
+	background-color:#2A7CDA;
+	border-style: solid;
+	border-width: 2px;
+	border-color:#5C99DE;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+a:hover{
+	background-color: #52A3CC;
+}
+body{
+	background-color: #DCFFFF
+}
