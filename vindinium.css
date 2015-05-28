@@ -70,3 +70,9 @@ img{
     width:700px;
     font-size:25px;
 }
+#myBot{
+    float:left;
+    margin:10px;
+    background-color:#2A7CDA;
+    padding:10px;
+}
