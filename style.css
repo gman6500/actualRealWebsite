@@ -1,0 +1,94 @@
+.toolbar{
+width: 1350px;
+height: 30px;
+background-color: #2A7CDA;
+border-style: solid;
+border-width: 2px;
+border-color: #5C99DE;
+}
+.toolbarBox{
+	width: 337px;
+	height:20px;
+	background-color:#2A7CDA;
+	border-style: solid;
+	border-width: 2px;
+	border-color:#5C99DE;
+}
+.LeftBox{
+width: 450px;
+height: 500px;
+background-color: #12A6E5;
+border-width: 2px;
+border-style: solid;
+border-color: #0E76A2;
+float: left;
+text-align: center;
+padding: 10px;
+}
+.MidBox{
+width: 420px;
+height:500px;
+background-color: #12A6E5;
+border-width: 2px;
+border-style: solid;
+border-color: #0E76A2;
+float: left;
+margin:5px;
+text-align: center;
+}
+#Spacer1{
+	width: 1350px;
+	height:30px; 
+}
+.RightBox{
+width: 430px;
+height: 500px;
+background-color: #12A6E5;
+border-width: 2px;
+border-style: solid;
+border-color: #0E76A2;
+float: right;
+text-align: center;
+padding-left: 5px
+}
+{
+width: 400px;
+height:325px;
+border-width: 2px;
+border-style: solid;
+border-color: blue;
+}
+
+body{
+	background-color: #DCFFFF;
+}
+#Title{
+	color: #2B4092;
+}
+#Titlebg{
+	width: 200px;
+	height: 30px;
+	background-color: #DDDEE2;
+	text-align: center;
+}
+
+
+.IntTxt{
+	opacity: 1;
+	color: black;
+	font-size: 20px;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+a:hover{
+	background-color: #52A3CC;
+}
+td{
+	text-align: center;
+}
+img{
+	width: 250px;
+	height: 200px;
+}

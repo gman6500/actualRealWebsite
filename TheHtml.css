@@ -1,0 +1,49 @@
+.toolbar{
+width: 1350px;
+height: 30px;
+background-color: #2A7CDA;
+border-style: solid;
+border-width: 2px;
+border-color: #5C99DE;
+}
+.toolbarBox{
+	width: 337px;
+	height:20px;
+	background-color:#2A7CDA;
+	border-style: solid;
+	border-width: 2px;
+	border-color:#5C99DE;
+}
+#Spcr{
+	width: 1350px;
+	height: 30px;
+}
+#MB{
+	width: 1350px;
+	height: 1350px;
+	background-color: rgba( 42, 124, 218, 0.56);
+}
+#table1{
+	border-color: black;
+	border-style: solid;
+	border-width: 3px;
+	margin: auto;
+	
+}
+.grph{
+	border-style: solid;
+	border-color: black;
+	border-width: 1px
+}
+span{
+	font-size: 30px
+}
+.pg{
+	text-align: center;
+}
+.pgl{
+	text-align: center;
+}
+body{
+	background-color: #DCFFFF
+}
