@@ -34,3 +34,10 @@ a:hover{
 body{
 	background-color: #DCFFFF
 }
+.Title{
+	width: 1350px;
+	height: 50px;
+	text-align: center;
+	font-size: 24px;
+	background-color: #5C7DFF;
+}
