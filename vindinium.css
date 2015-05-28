@@ -64,5 +64,8 @@ img{
     background-color:#2A7CDA;
 	float:left;
     width:700px;
-    size:25px;
+    font-size:25px;
+    border-color:#007ACC;
+    border-style:solid;
+    border-width:15px;
 }
