@@ -1,0 +1,13 @@
+!!!!CODE CLICKER CHANGELOG!!!!
+
+-------------v0.21-------------
+CAUTION!!!!! AT THE CURRENT STATE YOU CAN NOT SAVE YOUR PROGRESS!!!!! IF YOU REFRESH OR LEAVE THE PAGE!! YOU WILL LOSE YOUR PROGRESS!!!! ALL OF IT!!!!
+
++Added A counter for cps
++Fixed upgrades
++Added rest of upgrades
+
+
+Please send suggestions to wgrech.sp@mysummitps.org
+
+-Will
